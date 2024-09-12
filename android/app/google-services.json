@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128155516744",
+    "project_id": "tiempos-79cc3",
+    "storage_bucket": "tiempos-79cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128155516744:android:b095b3889b86cd7b793d7d",
+        "android_client_info": {
+          "package_name": "com.example.tiempos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128155516744-g8dmf9qpkqleion0j5si4t0fqc1aggup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UFFkaMIxMV5eWVpQe1DXpca6PgpUeEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128155516744-g8dmf9qpkqleion0j5si4t0fqc1aggup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
